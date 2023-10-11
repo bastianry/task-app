@@ -86,7 +86,6 @@ body {
   right: 8px;
   top: 50%;
   transform: translateY(-50%);
-  color: white;
 }
 
 #task-input {
@@ -107,6 +106,7 @@ button {
   font-weight: bold;
   text-transform: uppercase;
   cursor: pointer;
+  color: white;
 }
 
 button:hover {
